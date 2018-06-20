@@ -2,7 +2,12 @@ hi vinod
 
 
 How are you
+<<<<<<< HEAD
 
 I have a experience of 5 years as a devops engineer
 I have great communication skills and worked a teamplayer
 I am the one who wrote cookbooks for automation purpose.
+=======
+tell me about ur self?
+I have a experience of 5 years as a devops engineer
+>>>>>>> feature-c
